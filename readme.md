@@ -1,5 +1,5 @@
 # This fork
-While followig the tutorial's blog post, I noticed that most of the packages were quite outdated or deprecated, so I updated them and adapted the code (especially for the d3 part) accordingly. 
+While following the tutorial's blog post, I noticed that most of the packages were quite outdated or deprecated, so I updated them and adapted the code (especially for the d3 part) accordingly. 
 * package manager
 ** bower -> yarn
 * packages
