@@ -11,6 +11,8 @@ While following the tutorial's blog post, I noticed that most of the packages we
 
 I also use the Anaconda distributions of python, so I replaced the requirements.txt with a corresponding environment.yml file for conda.
 
+As I was not interested in the deployment part of this tutorial, the corresponding parts have been removed.
+
 # Fun with Flask
 
 1. Fetching Data with Requests
