@@ -6,6 +6,8 @@ While following the tutorial's blog post, I noticed that most of the packages we
 ** bootstrap 4.1.3
 ** d3 5.7.0
 ** jquery 3.3.1
+* python packages
+** pandas instead of requests+csv
 
 I also use the Anaconda distributions of python, so I replaced the requirements.txt with a corresponding environment.yml file for conda.
 
